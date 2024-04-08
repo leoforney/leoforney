@@ -1,6 +1,6 @@
 # Hey, I'm Leo Forney
 
-![](/home/leo/IdeaProjects/leoforney/img/me.jpg)
+![](img/me.jpg)
 
 I like developing cool, well written software that helps others. Learning new things is my passion and I like to dip my toes in the water in various different aspects of computing.
 
