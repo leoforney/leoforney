@@ -12,8 +12,6 @@ Check out my [website](https://leoforney.me/) for more details on some specific 
 
 **What I've learned/used/am currently using:**
 
-Python, Spring, React, Flutter Hibernate, C/C++/C#, Java, Python, Javascript, HTML, CSS, Docker, Android, Linux, CUDA
-
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CUDA" title="CUDA"><img height="32" src="icons/cuda.png" width="32"/></a>
 <a href="https://kotlinlang.org/" title="Kotlin"><img height="32" src="icons/kotlin.png" width="32"/></a>
