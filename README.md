@@ -32,5 +32,5 @@ Check out my [website](https://leoforney.me/) for more details on some specific 
 
 **Other links:**
 
-<a href="https://x.com/leoforney" title="X"><img height="32" src="icons/x.png" width="32"/></a>
+<a href="https://x.com/leo_forney" title="X"><img height="32" src="icons/x.png" width="32"/></a>
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/leo-forney/)
