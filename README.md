@@ -4,7 +4,7 @@
 
 I like developing cool, well written software that helps others. Learning new things is my passion and I like to dip my toes in the water in various different aspects of computing.
 
-Born in a suburb of Chicago, IL. Currently living in Des Moines, IA working for [Quality Consulting Inc](https://www.qci.com/).
+Born in a suburb of Chicago, IL. Currently living in Chicago, IL working for [Quality Consulting Inc](https://www.qci.com/).
 
 Check out my [website](https://leoforney.me/) for more details on some specific projects!
 
