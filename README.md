@@ -2,7 +2,7 @@
 
 ![](img/me.jpg)
 
-I like developing cool, well written software that helps others. Learning new things is my passion and I like to dip my toes in the water in various different aspects of computing.
+I like developing software. Specifically interested in graphics/gpgpu. My experience spans across various forms of computing including: web development, mobile development, database design, web design, java/oop, linux/system level.
 
 Born in a suburb of Gurnee, IL. Currently living in Chicago, IL working for [Quality Consulting Inc](https://www.qci.com/).
 
