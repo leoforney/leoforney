@@ -4,9 +4,7 @@
 
 I like developing software. Specifically interested in graphics/gpgpu. My experience spans across various forms of computing including: web development, mobile development, database design, web design, java/oop, linux/system level.
 
-Born in a suburb of Gurnee, IL. Currently living in Chicago, IL working for [Quality Consulting Inc](https://www.qci.com/).
-
-Check out my [website](https://leoforney.me/) for more details on some specific projects!
+Check out my [website](https://leoforney.me/) for more details on some specific projects.
 
 ---
 
